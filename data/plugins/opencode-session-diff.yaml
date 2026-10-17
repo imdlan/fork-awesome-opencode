@@ -1,0 +1,4 @@
+name: Session Diff
+repo: https://github.com/imdlan/opencode-session-diff
+tagline: Changes sidebar panel for the current session
+description: Adds a Changes section to the OpenCode TUI sidebar listing every file the current session added, modified, or deleted, with per-file +/− line counts, live highlight of the file being edited, and click-through to the diff viewer. Zero config.
